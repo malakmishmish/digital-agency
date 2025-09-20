@@ -42,8 +42,8 @@ A modern and responsive landing page for a digital agency website. This project 
 
 ## 📸 Screenshots
 
-![Homepage](github/1.png)  
-![About Section](github/2.png)  
-![Blog](github/3.png)  
-![Portfolio](github/4.png)  
-![Feedback](github/5.png)
+![Homepage](images/github/1.png)  
+![About Section](images/github/2.png)  
+![Blog](images/github/3.png)  
+![Portfolio](images/github/4.png)  
+![Feedback](images/github/5.png)
